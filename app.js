@@ -17,6 +17,11 @@
 // const _ er konvensjon for eksterne moduler
 
 //npm i nodemon -D (-D = devDependencies)
+
+//Git: 
+// 1)  git add .
+// 2)  git commit -m "comment"
+
 const _ = require('lodash')
 
 const items = [1, [2, [3, [4]]]]
