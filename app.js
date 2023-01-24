@@ -15,6 +15,8 @@
 
 // Eksterne moduler må installeres før de kan brukes, til forskjell fra innebygde (som http)
 // const _ er konvensjon for eksterne moduler
+
+//npm i nodemon -D (-D = devDependencies)
 const _ = require('lodash')
 
 const items = [1, [2, [3, [4]]]]
